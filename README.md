@@ -1,7 +1,7 @@
 # Python101 Alıştırmalar
 
 
-1️⃣  Aşağıdaki üç değişkeni beklenen çıktıya göre biçimlendirmek için `print` fonksiyonu ile 3 farklı yöntemi kullanarak bir program yazınız.
+1️⃣ - Aşağıdaki üç değişkeni beklenen çıktıya göre biçimlendirmek için `print` fonksiyonu ile 3 farklı yöntemi kullanarak bir program yazınız.
 
 totalMoney = 1000
 quantity = 3
@@ -15,7 +15,7 @@ Beklenen Output:
 ---
 
 
-2️⃣ Kullanıcıdan kabul edilen sayının çift mi yoksa tek mi olduğunu bulan bir Python programı yazınız.
+2️⃣ - Kullanıcıdan kabul edilen sayının çift mi yoksa tek mi olduğunu bulan bir Python programı yazınız.
 
 ### Örnek 1
 
@@ -37,7 +37,7 @@ Beklenen Output:
 ---
 
 
-3️⃣ Bu kod çalışmıyor; hataları düzelterek kodu çalıştırınız. Bu kodda istenilen şey ise kullanıcı doğru şifreyi girerek `Hoş geldiniz` çıktısıyla karşılaşmalı. Aksi takdirde `Şifreniz yanlıştır, lütfen şifrenizi tekrar girin` çıktısıyla karşılaşmalı. Kullanıcının yalnızca 2 kez yanlış şifre girme hakkı vardır. Program daha fazlasına izin vermemelidir.
+3️⃣ - Bu kod çalışmıyor; hataları düzelterek kodu çalıştırınız. Bu kodda istenilen şey ise kullanıcı doğru şifreyi girerek `Hoş geldiniz` çıktısıyla karşılaşmalı. Aksi takdirde `Şifreniz yanlıştır, lütfen şifrenizi tekrar girin` çıktısıyla karşılaşmalı. Kullanıcının yalnızca 2 kez yanlış şifre girme hakkı vardır. Program daha fazlasına izin vermemelidir.
 
 `dogru_sifre = "qwert123"
 
@@ -56,4 +56,4 @@ else:
 ---
 
 
-4️⃣ Temel 4 işlemi (+,-,*,/) yapabilen bir hesaplama programı yazınız. Bu programda kullanıcı hangi işlemi yapacağını karar verebilmeli, ardından 2 sayı girebilecek ve programa işlemin sonucunu yazdıracaktır.
+4️⃣ - Temel 4 işlemi (+,-,*,/) yapabilen bir hesaplama programı yazınız. Bu programda kullanıcı hangi işlemi yapacağını karar verebilmeli, ardından 2 sayı girebilecek ve programa işlemin sonucunu yazdıracaktır.

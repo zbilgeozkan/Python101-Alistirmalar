@@ -1,4 +1,4 @@
-## Python101 Alıştırmalar
+# Python101 Alıştırmalar
 
 
 1️⃣  Aşağıdaki üç değişkeni beklenen çıktıya göre biçimlendirmek için `print` fonksiyonu ile 3 farklı yöntemi kullanarak bir program yazınız.
